@@ -17,7 +17,7 @@ An example input file is provided in data/
 ### Instructions
 
 Run the wrapper script using:
- `cd R'
+ `cd R`
  `Rscript find_mendelian_consistency.R -i ../data/testsample.tsv -o ../testsample_out.tsv`
 
 ### Output
