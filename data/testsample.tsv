@@ -1,0 +1,6 @@
+seqnames	start	end	width	strand	orig_ID	len	valid_bins	verdict	nref	nhet	nhom	ninvdup	ncomplex	NA19434	HG00512	HG00513	HG00514	HG00731	HG00732	HG00733	NA19238	NA19239	NA19240	misorient	CALLERSET_LIST	lowConfCount	noreadsCount	categ
+chr1	1	2	1	*	A	18.269	23	pass	4	19	21	0	0	1|1	1|1	1|1	1|1	0|0	1|1	1|0	1|0	1|1	0|1	FALSE	PAV	6	0	inv
+chr1	3	4	1	*	B	18.269	23	pass	4	19	21	0	0	1|1	1|1	1|1	1|1	0|0_lowconf	1|1	1|0	1|0	1|1	0|1	FALSE	PAV	6	0	inv
+chr1	5	6	1	*	C	18.269	23	pass	4	19	21	0	0	1|1	1|1	1|1	0|0	0|0	1|1	1|0	1|0	1|1	0|1	FALSE	PAV	6	0	inv
+chr1	7	8	1	*	D	18.269	23	pass	4	19	21	0	0	1|1	1|1	1|1	1101	0|0	1|1	1|0	1|0	1|1	0|1	FALSE	PAV	6	0	inv
+chr1	7	8	1	*	D	18.269	23	pass	4	19	21	0	0	1|1	1|1	1|1	0|0_lowconf	0|0	1|1	1|0	1|0	1|1	0|1	FALSE	PAV	6	0	inv
